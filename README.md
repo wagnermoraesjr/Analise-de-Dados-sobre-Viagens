@@ -5,28 +5,28 @@
 ### **Objetivo do Projeto**
 
 Fazer uma Análise Exploratória de Dados (EDA), em um Dataset escolhido por mim, com o objetivo de colocar em prática os estudos recentes de Python e bibliotecas Pandas e Matplotlib.<br><br>
-Essa análise será feita atráves dos dados tabulados e plotados em gráficos, para responder as seguintes questões:<br><br>
+Essa análise será feita atráves dos dados tabulados e plotados em gráficos, para responder as seguintes questões:<br>
 
 **Global**<br>
-1. Qual a primeira e última data de viagem registrada?<br>
-2. Qual o destino mais visitado?<br>
-3. Desse destino mais visitado, quais foram as nacionalidades que mais visitaram?<br>
-4. Qual a duração média das viagens?<br>
-5. Qual a duração de viagem mais comum?<br>
-6. Qual a média da idade dos viajantes?<br>
-7. Quem viaja mais, homens ou mulheres?<br>
-8. Qual o tipo de acomodação preferida?<br>
-9. Qual o meio de transporte preferido?<br>
-10. Qual é o custo médio com a viagem (considerando apenas acomodação e transporte)?<br>
+1- Qual a primeira e última data de viagem registrada?<br>
+2- Qual o destino mais visitado?<br>
+3- Desse destino mais visitado, quais foram as nacionalidades que mais visitaram?<br>
+4- Qual a duração média das viagens?<br>
+5- Qual a duração de viagem mais comum?<br>
+6- Qual a média da idade dos viajantes?<br>
+7- Quem viaja mais, homens ou mulheres?<br>
+8- Qual o tipo de acomodação preferida?<br>
+9- Qual o meio de transporte preferido?<br>
+10- Qual é o custo médio com a viagem (considerando apenas acomodação e transporte)?<br>
 
 **Brasil**<br>
-11. Qual a porcentagem dos viajantes que visitaram o Brasil?<br>
-12. Quais as nacionalidades que mais visitaram o Brasil?<br>
-13. Qual é a duração mais comum dos visitantes do Brasil?<br>
-14. Qual a média de idade dos viajantes que visitaram o Brasil?<br>
-15. Qual o tipo de acomodação mais escolhido pelos visitantes do Brasil?<br>
-16. Qual o tipo de transporte mais escolhido pelos visitantes do Brasil?<br>
-17. Qual é o custo médio com a viagem ao Brasil (considerando apenas acomodação e transporte)?<br><br>
+11- Qual a porcentagem dos viajantes que visitaram o Brasil?<br>
+12- Quais as nacionalidades que mais visitaram o Brasil?<br>
+13- Qual é a duração mais comum dos visitantes do Brasil?<br>
+14- Qual a média de idade dos viajantes que visitaram o Brasil?<br>
+15- Qual o tipo de acomodação mais escolhido pelos visitantes do Brasil?<br>
+16- Qual o tipo de transporte mais escolhido pelos visitantes do Brasil?<br>
+17- Qual é o custo médio com a viagem ao Brasil (considerando apenas acomodação e transporte)?<br><br>
 
 ### **Introdução**
 
