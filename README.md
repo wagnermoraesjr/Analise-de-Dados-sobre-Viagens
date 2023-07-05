@@ -4,10 +4,9 @@
 
 ### **Objetivo do Projeto**
 
-Fazer uma Análise Exploratória de Dados (EDA), em um Dataset escolhido por mim, com o objetivo de colocar em prática os estudos recentes de Python e bibliotecas Pandas e Matplotlib.<br>
-<br>
-Essa análise será feita atráves dos dados tabulados e plotados em gráficos, para responder as seguintes questões:<br>
-<br>
+Fazer uma Análise Exploratória de Dados (EDA), em um Dataset escolhido por mim, com o objetivo de colocar em prática os estudos recentes de Python e bibliotecas Pandas e Matplotlib.<br><br>
+Essa análise será feita atráves dos dados tabulados e plotados em gráficos, para responder as seguintes questões:<br><br>
+
 **Global**<br>
 1. Qual a primeira e última data de viagem registrada?<br>
 2. Qual o destino mais visitado?<br>
@@ -19,7 +18,6 @@ Essa análise será feita atráves dos dados tabulados e plotados em gráficos, 
 8. Qual o tipo de acomodação preferida?<br>
 9. Qual o meio de transporte preferido?<br>
 10. Qual é o custo médio com a viagem (considerando apenas acomodação e transporte)?<br>
-<br>
 
 **Brasil**<br>
 11. Qual a porcentagem dos viajantes que visitaram o Brasil?<br>
@@ -28,16 +26,13 @@ Essa análise será feita atráves dos dados tabulados e plotados em gráficos, 
 14. Qual a média de idade dos viajantes que visitaram o Brasil?<br>
 15. Qual o tipo de acomodação mais escolhido pelos visitantes do Brasil?<br>
 16. Qual o tipo de transporte mais escolhido pelos visitantes do Brasil?<br>
-17. Qual é o custo médio com a viagem ao Brasil (considerando apenas acomodação e transporte)?<br>
-<br>
+17. Qual é o custo médio com a viagem ao Brasil (considerando apenas acomodação e transporte)?<br><br>
 
 ### **Introdução**
 
-O Dataset utilizado para essa análise será o **[Traveler Trip Dataset](https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data?resource=download)** disponível no Kaggle.<br>
-<br>
+O Dataset utilizado para essa análise será o **[Traveler Trip Dataset](https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data?resource=download)** disponível no Kaggle.<br><br>
 **Sobre o conjunto de dados:**<br>
-O conjunto de dados de viagem fornece informações detalhadas sobre várias viagens feitas pelos viajantes, incluindo seu destino, datas de viagem, duração da viagem em dias, dados demográficos do viajante (nome, idade, sexo e nacionalidade), bem como o tipo e custo da acomodação e transporte. Esse conjunto de dados pode ser usado para obter informações sobre padrões de viagem, preferências e comportamentos de diferentes tipos de viajantes. Também pode ser útil para empresas relacionadas a viagens, como agências de viagens, criar estratégias de marketing personalizadas e pacotes de viagens que atendam às necessidades e preferências de diferentes viajantes.<br>
-<br>
+O conjunto de dados de viagem fornece informações detalhadas sobre várias viagens feitas pelos viajantes, incluindo seu destino, datas de viagem, duração da viagem em dias, dados demográficos do viajante (nome, idade, sexo e nacionalidade), bem como o tipo e custo da acomodação e transporte. Esse conjunto de dados pode ser usado para obter informações sobre padrões de viagem, preferências e comportamentos de diferentes tipos de viajantes. Também pode ser útil para empresas relacionadas a viagens, como agências de viagens, criar estratégias de marketing personalizadas e pacotes de viagens que atendam às necessidades e preferências de diferentes viajantes.<br><br>
 **Detalhes das Colunas:**<br>
 **Trip ID:** Um identificador exclusivo para cada viagem feita por um viajante.<br>
 **Destination:** O nome da cidade ou país visitado pelo viajante.<br>
@@ -52,3 +47,5 @@ O conjunto de dados de viagem fornece informações detalhadas sobre várias via
 **Accommodation cost:** O custo do alojamento para toda a viagem (em USD).<br>
 **Transportation type:** O meio de transporte usado pelo viajante, como avião, trem ou carro.<br>
 **Transportation cost:** O custo do transporte para toda a viagem (em USD).
+
+[Análise Exploratória de Dados - Dados sobre Viagens](https://github.com/wagnermoraesjr/Analise-de-Dados-sobre-Viagens/blob/main/Analise_de_Dados_-_Dados_sobre_Viagens_github.ipynb)
