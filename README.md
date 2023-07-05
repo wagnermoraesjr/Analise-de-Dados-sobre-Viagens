@@ -23,13 +23,12 @@ Essa análise será feita atráves dos dados tabulados e plotados em gráficos, 
 
 **Brasil**<br>
 11. Qual a porcentagem dos viajantes que visitaram o Brasil?<br>
-12. Qual a porcentagem dos viajantes que visitaram o Brasil?<br>
-13. Quais as nacionalidades que mais visitaram o Brasil?<br>
-14. Qual é a duração mais comum dos visitantes do Brasil?<br>
-15. Qual a média de idade dos viajantes que visitaram o Brasil?<br>
-16. Qual o tipo de acomodação mais escolhido pelos visitantes do Brasil?<br>
-17. Qual o tipo de transporte mais escolhido pelos visitantes do Brasil?<br>
-18. Qual é o custo médio com a viagem ao Brasil (considerando apenas acomodação e transporte)?<br>
+12. Quais as nacionalidades que mais visitaram o Brasil?<br>
+13. Qual é a duração mais comum dos visitantes do Brasil?<br>
+14. Qual a média de idade dos viajantes que visitaram o Brasil?<br>
+15. Qual o tipo de acomodação mais escolhido pelos visitantes do Brasil?<br>
+16. Qual o tipo de transporte mais escolhido pelos visitantes do Brasil?<br>
+17. Qual é o custo médio com a viagem ao Brasil (considerando apenas acomodação e transporte)?<br>
 <br>
 
 ### **Introdução**
